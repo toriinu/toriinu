@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.dot {
+    color: red;
+}
+
+.bottonstyle {
+    text-align: center;
+    padding: 20px;
+}
+
+.botton {
+    background: #2c6ebd;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 1em 2em 0.8em;
+    line-height:1; 
+    display: inline-block;
+    text-decoration: none;
+}
+
+.question {
+    padding: 10px;
+}
+
+.answer {
+    padding: 5px 5px;
+}
+
+.list {
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.mathloglink {
+    margin: 15px;
+}
